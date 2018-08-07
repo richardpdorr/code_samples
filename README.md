@@ -2,7 +2,10 @@
 
 ## Important links
 
-Vue Countdown Component (Soon to be edited for open source) - 
+Code Test using Laravel + ReactJS - https://github.com/richardpdorr/24dataCodeTest
+
+### Vue Countdown Component (Soon to be edited for open source)
+https://codepen.io/richardpdorr/pen/GGxgXp
 
 Portfolio Site (Under Construction) - https://richardpdorr.github.io/portfolio/
 

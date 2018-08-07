@@ -1,16 +1,18 @@
 # Code Samples
 
+Because I work in mainly a corporate environment some examples I cannot share the code, I have attached a few *screenshots* of projects I worked on at uBreakiFix (/example_screens).
+
 ## Important links
 
 ### Code Test using Laravel + ReactJS
 https://github.com/richardpdorr/24dataCodeTest
-
+------
 ### Vue Countdown Component (Soon to be edited for open source)
 https://codepen.io/richardpdorr/pen/GGxgXp
-
+------
 ### Portfolio Site (Under Construction)
 https://richardpdorr.github.io/portfolio/
-
+------
 ### Current Gaming App Prototype (ClashLFG)
 Password is "Xxo12345" (case-sensitive)
 
